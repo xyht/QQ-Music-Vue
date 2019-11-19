@@ -7,7 +7,7 @@ import router from './router'
 import fastclick from 'fastclick'
 import Vant from 'vant'
 import VueLazyload from 'vue-lazyload'
-import 'vant/lib/vant-css/index.css'
+import 'vant/lib/index.css'
 import VurResource from 'vue-resource'
 import VueJsonp from 'vue-jsonp'
 Vue.use(VueJsonp)
